@@ -7,6 +7,7 @@ import (
 )
 
 func main(){
+	// COMMENTED BELOW LINES SO THAT IT IS EASIER TO SETUP/RUN
 	// godotenv.Load()
 
 	// portString := os.Getenv("PORT")
